@@ -1,0 +1,22 @@
+{
+  "name": "package-mul",
+  "version": "1.0.0",
+  "description": "mul",
+  "main": "index.js",
+  "scripts": {
+    "test": "mul"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranya-dhayalan/package-mul.git"
+  },
+  "keywords": [
+    "mul"
+  ],
+  "author": "saranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranya-dhayalan/package-mul/issues"
+  },
+  "homepage": "https://github.com/saranya-dhayalan/package-mul#readme"
+}
